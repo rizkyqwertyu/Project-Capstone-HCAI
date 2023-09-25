@@ -62,4 +62,4 @@ Berdasarkan hasil Predict diabetes with pipeline models using AutoAI, dapat disi
 
 + Dilakukan beberapa peningkatan (enhancements) pada model, yaitu 1st dan 2nd Hyperparameter Optimization serta Feature Engineering. Peningkatan ini membantu meningkatkan performa model dengan mengoptimalkan parameter dan mengubah fitur yang digunakan.
 
-Dengan hasil tersebut, studi ini memberikan pemahaman yang lebih baik tentang hubungan antara merokok dan kanker paru-paru. Model yang dikembangkan memiliki tingkat akurasi yang tinggi dan telah mengalami peningkatan melalui proses optimisasi parameter dan rekayasa fitur. Implikasinya, model ini dapat digunakan sebagai alat yang berguna dalam memprediksi dan memahami dampak merokok terhadap kesehatan paru-paru.
+Dengan hasil tersebut, studi ini memberikan pemahaman yang lebih baik tentang hubungan antara BMI, Glucose, dan BloodPress. Model yang dikembangkan memiliki tingkat akurasi yang tinggi dan telah mengalami peningkatan melalui proses optimisasi parameter dan rekayasa fitur. Implikasinya, model ini dapat digunakan sebagai alat yang berguna dalam memprediksi dan memahami penyebab terbesar diabetes.
