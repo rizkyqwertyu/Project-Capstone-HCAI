@@ -16,7 +16,7 @@
 ### Dataset Diabetes
 Dataset ini diambil dari website kaggle, link = https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes
 
-![architecture](Gambar/Dataset-lung-cancer.png)
+![architecture](Gambar/Dataset.png)
 
 ![architecture](Gambar/Informasi-dataset.png)
 
@@ -26,7 +26,7 @@ Dataset ini diambil dari website kaggle, link = https://www.kaggle.com/datasets/
 
 ### Flow
 
-![architecture](Gambar/Flow.png)
+![architecture](Gambar/FLOWCHART.png)
 
 1. Pengguna mengirimkan percobaan AutoAI menggunakan pengaturan default.
 2. Beberapa model pipeline dihasilkan. Model pipeline pilihan dari papan peringkat disimpan sebagai buku catatan Jupyter.
@@ -54,11 +54,11 @@ Dataset ini diambil dari website kaggle, link = https://www.kaggle.com/datasets/
 
 ## Kesimpulan 
 
-Berdasarkan hasil Predict Lung Cancer effect Smoking with pipeline models using AutoAI, dapat disimpulkan bahwa:
+Berdasarkan hasil Predict diabetes with pipeline models using AutoAI, dapat disimpulkan bahwa:
 
-+ Algoritma yang digunakan adalah Extra Trees Classifier. Algoritma ini telah terbukti efektif dalam memprediksi efek merokok terhadap kanker paru-paru.
++ Algoritma yang digunakan adalah XGB Classifier. Algoritma ini telah terbukti efektif dalam memprediksi seseorang mengalami diabetes atau tidak.
 
-+ Model yang dikembangkan dengan menggunakan algoritma tersebut mencapai tingkat akurasi sebesar 0.867. Angka ini menunjukkan bahwa model memiliki kemampuan yang baik dalam mengklasifikasikan efek merokok terhadap kanker paru-paru.
++ Model yang dikembangkan dengan menggunakan algoritma tersebut mencapai tingkat akurasi sebesar 0.993 Angka ini menunjukkan bahwa model machine learning tersebut memiliki kemampuan yang baik dalam mengklasifikasikan pengidap diabetes tipe 2 atau tidak.
 
 + Dilakukan beberapa peningkatan (enhancements) pada model, yaitu 1st dan 2nd Hyperparameter Optimization serta Feature Engineering. Peningkatan ini membantu meningkatkan performa model dengan mengoptimalkan parameter dan mengubah fitur yang digunakan.
 
